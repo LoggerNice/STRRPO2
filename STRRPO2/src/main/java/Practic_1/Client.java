@@ -1,4 +1,4 @@
-package Client;
+package Practic_1;
 
 import org.apache.xmlrpc.XmlRpcClient;
 import org.apache.xmlrpc.XmlRpcException;

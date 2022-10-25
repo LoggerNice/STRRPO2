@@ -1,4 +1,4 @@
-package Server;
+package Practic_1;
 
 import java.sql.DriverManager;
 import java.sql.ResultSet;
